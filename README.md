@@ -6,7 +6,7 @@ github: https://github.com/ProximaCA
 location: Pattaya
 ---
 
-<img src="v.jpg" alt="Profile Picture" width="300" height="300" style="border-radius:50%; display:block; margin:auto;">
+<img src="b.jpg" alt="Profile Picture" width="300" height="300" style="border-radius:50%; display:block; margin:auto;">
 
 # Brok3 – Fullstack Developer & AI Innovator
 
