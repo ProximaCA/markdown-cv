@@ -6,6 +6,8 @@ github: https://github.com/ProximaCA
 location: Pattaya
 ---
 
+![Profile Picture](b.jpg)
+
 # Brok3 – Fullstack Developer & AI Innovator
 
 ## Profile
