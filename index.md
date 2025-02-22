@@ -56,6 +56,8 @@ A highly motivated Fullstack Developer with a proven track record in web develop
   - Courses in Python & Node.js  
   - VR/AR Courses (2019–2021)  
   - OSINT and Sysadmin Training
+- Awarded a certificate for 2nd place in the "Medvezhonok" Olympiad in 5th grade
+
 
 ## Technical Skills
 
@@ -76,9 +78,6 @@ A highly motivated Fullstack Developer with a proven track record in web develop
 - **Teamwork:** Proven ability to collaborate effectively in team environments  
 - **Multitasking:** Skilled at managing multiple projects simultaneously
 
-## Achievements
-
-- Awarded a certificate for 2nd place in the "Medvezhonok" Olympiad in 5th grade
 
 ## Interests & Additional Information
 
