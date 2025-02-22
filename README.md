@@ -6,7 +6,7 @@ github: https://github.com/ProximaCA
 location: Pattaya
 ---
 
-![Profile Picture](b.jpg)
+<img src="b.jpg" alt="Profile Picture" width="300" height="300" style="border-radius:50%; display:block; margin:auto;">
 
 # Brok3 – Fullstack Developer & AI Innovator
 
@@ -49,11 +49,15 @@ A highly motivated Fullstack Developer with a proven track record in web develop
 
 ## Education
 
-- **High School:** Completed 11 grades  
+- **PGNIU, University (2021 – 2024):**  
+  Major: Information Systems and Programming  
+  Specialization: Programmer  
 - **Additional Training:**  
   - Courses in Python & Node.js  
   - VR/AR Courses (2019–2021)  
   - OSINT and Sysadmin Training
+- Awarded a certificate for 2nd place in the "Medvezhonok" Olympiad in 5th grade
+
 
 ## Technical Skills
 
@@ -68,11 +72,18 @@ A highly motivated Fullstack Developer with a proven track record in web develop
 - **Operating System:** Linux  
 - **AI & Automation:** Early adopter of ChatGPT (first user, April 2021) and active developer of AI agents since 2023
 
+## Soft Skills
+
+- **Creativity:** Frequently recognized as an idea generator  
+- **Teamwork:** Proven ability to collaborate effectively in team environments  
+- **Multitasking:** Skilled at managing multiple projects simultaneously
+
+
 ## Interests & Additional Information
 
-- **Favorite Books:** 📚 "Cryptonomicon", "1984", "The Richest Man in Babylon"  
-- **Favorite Films/TV Shows:** 🎬 "Limitless", "Mr. Robot", "Neon Genesis Evangelion"  
-- **Languages:** English (Technical proficiency, A2 level)
+- **Favorite Books:** 📚 “Cryptonomicon”, “1984”, “The Richest Man in Babylon”  
+- **Favorite Films/TV Shows:** 🎬 “Limitless”, “Mr. Robot”, “Neon Genesis Evangelion”  
+- **Languages:** English (B1 level)
 
 ## Portfolio
 
