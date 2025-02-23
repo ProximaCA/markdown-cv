@@ -8,11 +8,11 @@ location: Pattaya
 
 <img src="b.jpg" alt="Profile Picture" width="300" height="300" style="border-radius:50%; display:block; margin:auto;">
 
-# Brok3 – Fullstack Developer & AI Innovator
+# Brok3 – Fullstack Developer & AI Builder
 
 ## Profile
 
-A highly motivated Fullstack Developer with a proven track record in web development, blockchain, 3D/VR/AR, and AI-driven solutions. With deep expertise in Python and JavaScript, I excel at delivering innovative projects—from scalable web applications to cutting-edge AI agents. Recognized as an early adopter of ChatGPT (first user, April 2021) and an active developer of AI agents since 2023, I bring a unique blend of technical mastery and creative problem-solving to every project.
+A highly motivated Fullstack Developer with a proven track record in web development, blockchain, 3D/VR/AR, and AI-driven solutions. With deep expertise in Python and JavaScript, I excel at delivering innovative projects—from scalable web applications to cutting-edge AI agents. Recognized as an early adopter of AI and an active developer of AI agents since 2023, I bring a unique blend of technical mastery and creative problem-solving to every project.
 
 ## Contact Information
 
@@ -39,7 +39,7 @@ A highly motivated Fullstack Developer with a proven track record in web develop
 
 ### Company Experience
 - **Alchemy (Student):**  
-  Gained early industry exposure in a dynamic startup environment.
+  Took courses in solidity, js. Also participated in the development of alchemy sdk. 
 - **CognitionX (Main Developer):**  
   Leading core development on the platform, integrating AI solutions to enhance user experiences. [cognitionx.cloud](https://cognitionx.cloud/)
 - **Lindy (Agent Builder):**  
@@ -61,8 +61,8 @@ A highly motivated Fullstack Developer with a proven track record in web develop
 
 ## Technical Skills
 
-- **Programming Languages:** Python, JavaScript  
-- **Frontend:** React, Next.js  
+- **Programming Languages:** Python, JavaScript, Solidity, C#. 
+- **Frontend:** React, Next.js, Vue.js 
 - **Backend:** Express, Node.js, Nest.js  
 - **Libraries & Tools:**  
   - **Python:** web3, aiohttp, requests, pandas, aiogram, etc.  
@@ -70,7 +70,7 @@ A highly motivated Fullstack Developer with a proven track record in web develop
   - **Development Tools:** Remix IDE, VS Code, Cursor, Blender, Visual Studio (C#)  
 - **Server Administration:** Expertise in Linux server setup, hosting, and security  
 - **Operating System:** Linux  
-- **AI & Automation:** Early adopter of ChatGPT (first user, April 2021) and active developer of AI agents since 2023
+- **AI & Automation:** Early adopter of ChatGPT (first user, April 2021) and active developer of AI agents since 2023. 
 
 ## Soft Skills
 
