@@ -45,7 +45,7 @@ I thrive in team environments, bringing creativity, collaboration, and a results
 [**lindy.ai**](https://lindy.ai)  
 - Developed AI agents that automated 60% of routine tasks, saving the team 120 hours monthly.  
 
-### **TechCorp** - Junior Developer (2021 - 2022)  
+### **TechCorp** - Junior Developer (2022 - 2022)  
 [**techcorp.io**](https://techcorp.io)  
 - Optimized a large-scale web app, reducing load times by 38% and enhancing user experience.  
 
@@ -76,7 +76,8 @@ I thrive in team environments, bringing creativity, collaboration, and a results
 ---
 
 ## Languages
-- English (B1 level)  
+- Russian (C1 level)
+- English (B2 level)  
 
 ---
 
