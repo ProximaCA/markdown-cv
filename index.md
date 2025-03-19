@@ -1,4 +1,4 @@
-# FGK3
+#  Brok3
 **Fullstack Developer & AI Innovator**
 
 ---
@@ -8,7 +8,8 @@
 - **Time Zone:** GMT+7  
 - **Email:** [brok3.dev@icloud.com](mailto:brok3.dev@icloud.com)  
 - **Phone:** 1111111111111111  
-- **GitHub:** [ProximaCA](https://github.com/ProximaCA)  
+- **GitHub:** [ProximaCA](https://github.com/ProximaCA)
+- **Telegram** [Brok3](https://t.me/exhaustexe) 
 
 ---
 
@@ -23,10 +24,10 @@ I thrive in team environments, bringing creativity, collaboration, and a results
 - **Programming Languages:** Python, JavaScript, Solidity  
 - **Frontend:** React, Next.js, Vue.js  
 - **Backend:** Express, Node.js, Nest.js  
-- **Libraries & Tools:** web3, aiohttp, requests, pandas, aiogram, pnpm, pm2, serve, code obfuscation tools  
+- **Libraries & Tools:** web3, aiohttp, requests, pandas, aiogram, pnpm, pm2+serve, selenium, code obfuscation tools 
 - **Development Tools:** Remix IDE, VS Code, Cursor  
-- **Server Administration:** Linux server setup, hosting, security  
-- **Operating System:** Linux  
+- **Server Administration:** Linux server setup, hosting, cyber security.
+- **Operating System:** Linux (main), Windows, MacOS.
 - **AI & Automation:** ChatGPT, AI agents, Anthropic SDK  
 
 ---
@@ -71,7 +72,7 @@ I thrive in team environments, bringing creativity, collaboration, and a results
 ## Interests
 - Vibe coding  
 - Competing in Capture The Flag (CTF) challenges  
-- Running a tech-focused Telegram channel  
+- Running a tech-focused [Telegram channel](https://t.me/fuckitwebuild)  
 
 ---
 
@@ -86,6 +87,6 @@ I thrive in team environments, bringing creativity, collaboration, and a results
 
 ---
 
-*Invisible ATS Keywords: AI, blockchain, fullstack, Python, JavaScript, React, Node.js, automation, innovation, scalability.*
+*Keywords: AI, blockchain, fullstack, Python, JavaScript, React, Node.js, automation, innovation, scalability.*
 
 **Let’s Connect:** Reach me at 1111111111111111 or [brok3.dev@icloud.com](mailto:brok3.dev@icloud.com) to explore how I can contribute!
