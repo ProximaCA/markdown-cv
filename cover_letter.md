@@ -2,11 +2,10 @@
 
 Dear Hiring Manager,  
 
-I’m excited to apply for the Fullstack Developer position at TechVision Labs. With over 5 years of experience in web development, blockchain, 3D/VR/AR, and AI-driven solutions, I’ve built a track record of delivering innovative, high-impact projects. I’m eager to contribute my expertise to TechVision Labs and help advance your mission of pioneering cutting-edge technology.  
+I’m excited to apply for the Fullstack Developer position at TechVision Labs. With over 5 years of experience in web development, blockchain, and AI-driven solutions, I’ve built a track record of delivering innovative, high-impact projects. I’m eager to contribute my expertise to TechVision Labs and help advance your mission of pioneering cutting-edge technology.  
 
 Here’s a snapshot of my achievements:  
 - Developed an e-commerce platform with React and Node.js, increasing user engagement by 55%.  
-- Created a VR training simulation for a Fortune 500 company, reducing training time by 33%.  
 - Led AI integration at CognitionX, boosting user retention by 42% through intelligent features.  
 
 I’m passionate about solving complex challenges with scalable, reliable tech. My skills and drive align with TechVision Labs’ goals, and I’d love to bring my creativity and teamwork to your projects.  
