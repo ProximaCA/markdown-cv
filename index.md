@@ -1,5 +1,5 @@
 #  Brok3
-**Fullstack Developer & AI Innovator**
+**CTO & Blockchain Architect**
 
 ---
 
@@ -21,7 +21,7 @@ I thrive in team environments, bringing creativity, collaboration, and a results
 ---
 
 ## Skills
-- **Programming Languages:** Python, JavaScript, Solidity  
+- **Programming Languages:** Python, JavaScript, Solidity
 - **Frontend:** React, Next.js, Vue.js  
 - **Backend:** Express, Node.js, Nest.js  
 - **Libraries & Tools:** web3, aiohttp, requests, pandas, aiogram, pnpm, pm2+serve, selenium, code obfuscation tools 
