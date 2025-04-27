@@ -1,6 +1,6 @@
 ---
 name: Brok3
-title: Fullstack Developer & AI Innovator
+title: CTO (Chief Technology Officer) & Blockchain Dev
 email: brok3.dev@icloud.com
 github: https://github.com/ProximaCA
 location: Pattaya
