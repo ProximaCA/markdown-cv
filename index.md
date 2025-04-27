@@ -89,8 +89,6 @@ I thrive in team environments, bringing creativity, collaboration, and a results
 
 ## Portfolio
 - **GitHub:** [ProximaCA](https://github.com/ProximaCA)  
-**(Suggestion):** Consider adding Tonify here if there's a public link or project description available.
-
 ---
 
 *Keywords: AI, blockchain, fullstack, Python, JavaScript, React, Node.js, automation, innovation, scalability, TON, CTO, Architecture.*
