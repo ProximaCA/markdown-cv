@@ -1,5 +1,5 @@
 #  Brok3
-**CTO & Blockchain Architect**
+**CTO (Chief Technology Officer) & Blockchain Dev**
 ---
 
 ## Contact Information
