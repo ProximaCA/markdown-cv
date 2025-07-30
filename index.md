@@ -1,5 +1,5 @@
 #  Brok3
-**CTO (Chief Technology Officer) & Blockchain Dev**
+**Fullstack Dev**
 ---
 
 ## Contact Information
@@ -13,7 +13,7 @@
 ---
 
 ## About
-I’m a skilled Fullstack Developer with over 5 years of experience crafting innovative solutions in web development, blockchain, and AI technologies. I’ve delivered standout projects—like scalable websites and smart AI agents—that tackle real-world problems and deliver measurable results. Proficient in Python, JavaScript, and more, I excel at transforming complex ideas into practical, impactful tech. **Currently serving as CTO & Blockchain Architect at Tonify**, I lead technical strategy and development within the TON ecosystem.
+I’m a skilled Fullstack Developer with over 5 years of experience crafting innovative solutions in web development, blockchain, and AI technologies. I’ve delivered standout projects—like scalable websites and smart AI agents—that tackle real-world problems and deliver measurable results. Proficient in Python, JavaScript, and more, I excel at transforming complex ideas into practical, impactful tech. **Currently serving as CPO at Tonify**, I lead technical strategy and development within the TON ecosystem.
 
 I thrive in team environments, bringing creativity, collaboration, and a results-focused approach to every challenge. Known for managing multiple projects seamlessly, I’m driven to push technological limits and create value for startups and global companies alike.
 
@@ -47,23 +47,12 @@ I thrive in team environments, bringing creativity, collaboration, and a results
 [**cognitionx.cloud**](https://cognitionx.cloud)  
 - Spearheaded core platform development, integrating AI features that increased user retention by 42%.  
 
-### **Lindy** - Agent Builder (2022 - 2023)  
-[**lindy.ai**](https://lindy.ai)  
-- Developed AI agents that automated 60% of routine tasks, saving the team 120 hours monthly.  
-
-### **TechCorp** - Junior Developer (2022 - 2022)  
-[**techcorp.io**](https://techcorp.io)  
-- Optimized a large-scale web app, reducing load times by 38% and enhancing user experience.  
-
 ---
 
 ## Education
 - **PGNIU, University, St. Petersburg** - Master of Science in Information Systems and Programming, 2021 - 2024  
 
 ---
-
-## Awards and Recognitions
-- Won 1st place in the Argon AI Hackathon, creating an AI solution that accelerated data processing by 210%.  
 
 ---
 
@@ -77,7 +66,6 @@ I thrive in team environments, bringing creativity, collaboration, and a results
 ## Interests
 - Vibe coding  
 - Competing in Capture The Flag (CTF) challenges  
-- Running a tech-focused [Telegram channel](https://t.me/fuckitwebuild)  
 
 ---
 
@@ -93,6 +81,6 @@ I thrive in team environments, bringing creativity, collaboration, and a results
 
 ---
 
-*Keywords: AI, blockchain, fullstack, Python, JavaScript, React, Node.js, automation, innovation, scalability, TON, CTO, Architecture.*
+*Keywords: AI, blockchain, fullstack, Python, JavaScript, React, Node.js, automation, innovation, scalability, TON, Architecture.*
 
 **Let’s Connect:** Reach me at 1111111111111111 or [brok3.dev@icloud.com](mailto:brok3.dev@icloud.com) to explore how I can contribute!
