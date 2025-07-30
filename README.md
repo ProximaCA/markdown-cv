@@ -24,16 +24,12 @@ A highly motivated Fullstack Developer and Blockchain Architect with a proven tr
 ## Professional Experience
 
 ### Company Experience
-- **Tonify (CTO & Blockchain Architect):** (2023 - Present)  
+- **Tonify (CPO, fullstack):** (2025 - Present)  
   Defining the technical vision and architectural strategy for the Tonify ecosystem on the TON blockchain. Leading the end-to-end development of the platform, including smart contracts, dApp architecture, and fullstack implementation.
-- **CognitionX (Main Developer):** (2023 - Present)  
+- **CognitionX (Main Developer):** (2024 - Present)  
   Leading core development on the platform, integrating AI solutions to enhance user experiences. [cognitionx.cloud](https://cognitionx.cloud/)
-- **Lindy (Agent Builder):** (2022 - 2023)  
-  Developed intelligent agent systems to drive automation and innovation. [lindy.ai](https://www.lindy.ai/)
 - **Alchemy (Developer Contributor / Student):**  
   Contributed to Alchemy SDK development during advanced Solidity and JavaScript coursework. 
-- **Argon (Agent Hackathon):**  
-  Won 1st place in the Argon AI Hackathon, demonstrating expertise in AI agent development. [argon-ai.com](https://argon-ai.com/) *(Added the 1st place mention from previous CV)*
 
 ### Freelance & Independent Projects
 - **Web Development:**  
