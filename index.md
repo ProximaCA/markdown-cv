@@ -3,12 +3,11 @@
 ---
 
 ## Contact Information
-- **Age:** 21  
+- **Age:** 22
 - **Time Zone:** GMT+7  
-- **Email:** [brok3.dev@icloud.com](mailto:brok3.dev@icloud.com)  
 - **Phone:** 1111111111111111  
 - **GitHub:** [ProximaCA](https://github.com/ProximaCA)
-- **Telegram** [Brok3](https://t.me/exhaustexe) 
+
 
 ---
 
