@@ -1,12 +1,12 @@
 
-# **Fullstack Developer & AI Builder**
+# **Fullstack Developer**
 
 ## Profile
 
 A full-stack engineer with 3+ years of experience building production-ready systems: Telegram Mini Apps, AI-powered platforms, backend architectures, automation pipelines, and blockchain-based applications. Comfortable taking projects from raw idea to a deployed MVP with proper architecture, clean code, security, and maintainability.
 Strong focus on AI agents, scalable backend logic, automation, and blockchain (TON & EVM). I enjoy solving messy problems, shipping fast, designing systems that don’t fall apart under load, and iterating until it feels right.
 
-Currently working as CPO & Fullstack Engineer at **Tonify**, building the core platform logic, architecture, and AI/blockchain integrations.
+Currently working as CPO & Fullstack Engineer at **Tonify**, building the core platform logic, architecture, and blockchain integrations.
 
 ---
 
@@ -70,8 +70,6 @@ AI platform for CBT training.
 
 ## **Freelance & Independent Projects**
 
-2022 – 2024
-
 ### **Medium Automation System**
 
 * Automated account creation through Gmailnator API.
@@ -125,6 +123,7 @@ AI platform for CBT training.
 * Strong idea generation
 * Team-friendly communication
 * Ability to ship fast and iterate
+  
 ---
 
 # **Interests**
