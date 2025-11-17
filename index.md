@@ -1,86 +1,79 @@
-#  Brok3
-**Fullstack Dev**
----
 
-## Contact Information
-- **Age:** 21  
-- **Time Zone:** GMT+7  
-- **Email:** [brok3.dev@icloud.com](mailto:brok3.dev@icloud.com)  
-- **Phone:** 1111111111111111  
-- **GitHub:** [ProximaCA](https://github.com/ProximaCA)
-- **Telegram** [Brok3](https://t.me/exhaustexe) 
+
+# **Fullstack разработчик / AI Engineer**
+
+[brok3dev@gmail.com](mailto:brok3dev@gmail.com) | Telegram: @proximaca | GitHub: ProximaCA
+
+## **Обо мне**
+
+Fullstack разработчик с более чем 3 годами опыта. Вёл проекты от идеи до продакшена, сам писал, сам деплоил. Собираю сервисы от архитектуры до рабочих MVP, подключаю внешние API, автоматизирую процессы и решаю задачи полного цикла: от логики до релиза. Предпочитаю гибкий подход к работе без излишней бюрократии.
 
 ---
 
-## About
-I’m a skilled Fullstack Developer with over 5 years of experience crafting innovative solutions in web development, blockchain, and AI technologies. I’ve delivered standout projects—like scalable websites and smart AI agents—that tackle real-world problems and deliver measurable results. Proficient in Python, JavaScript, and more, I excel at transforming complex ideas into practical, impactful tech. **Currently serving as CPO at Tonify**, I lead technical strategy and development within the TON ecosystem.
+## **Опыт работы**
 
-I thrive in team environments, bringing creativity, collaboration, and a results-focused approach to every challenge. Known for managing multiple projects seamlessly, I’m driven to push technological limits and create value for startups and global companies alike.
+### **Tonify — Сооснователь / Fullstack разработчик**
 
----
+Март 2025 — настоящее время
+tonify.space
 
-## Skills
-- **Programming Languages:** Python, JavaScript, Solidity
-- **Frontend:** React, Next.js, Vue.js  
-- **Backend:** Express, Node.js, Nest.js  
-- **Blockchain:** Smart Contracts, dApp Development, **Blockchain Architecture**, **TON Blockchain**, web3
-- **Libraries & Tools:** aiohttp, requests, pandas, aiogram, pnpm, pm2+serve, selenium, code obfuscation tools 
-- **Development Tools:** Remix IDE, VS Code, Cursor  
-- **Server Administration:** Linux server setup, hosting, cyber security.
-- **Operating System:** Linux (main), Windows, MacOS.
-- **AI & Automation:** ChatGPT, AI agents, Anthropic SDK  
+Музыкальная платформа в Telegram на TON. Разработка мини-апп и бэкенда.
 
----
+— Реализовал авторизацию с Telegram init data, профиль, баланс, реф-систему.
+— Спроектировал и написал архитектуру бэкенда: NestJS + MongoDB модульная структура, слои, сервисы.
+— Реализовал механику Music-to-Earn (начисление TREC, бонусы, дополнительные механики при прослушивании).
+— Сделал каталог треков: выдача signed-URL через Google Storage, поиск, топы, лайки, истории прослушиваний, плейлисты.
+— Разработал API для всего пользовательского функционала: listen, spin, recent, like/unlike, плейлисты, каталог.
+— Собрал основные экраны мини-аппы (Discover, профиль, баланс) и интегрировал их с бэкендом.
 
-## Work Experience
-
-### **Tonify** - CTO & Blockchain Architect (2023 - Present) 
-- Defining the technical vision and architectural strategy for the Tonify ecosystem on the TON blockchain.
-- Leading the end-to-end development of the Tonify platform, including smart contracts, dApp architecture, and fullstack implementation.
-- Driving innovation within the project, integrating cutting-edge blockchain and web technologies.
-
-### **Freelance Fullstack Developer** (2021 - Present)
-- Built a high-traffic e-commerce platform using React and Node.js, boosting user engagement by 55%.  
-- Designed secure blockchain smart contracts, preventing losses of over $1.2 million through thorough audits.  
-
-### **CognitionX** - Main Developer (2023 - Present)  
-[**cognitionx.cloud**](https://cognitionx.cloud)  
-- Spearheaded core platform development, integrating AI features that increased user retention by 42%.  
+**Стек:** Next.js, Nest.js, MongoDB, TWA, TON SDK, OnceUI.
 
 ---
 
-## Education
-- **PGNIU, University, St. Petersburg** - Master of Science in Information Systems and Programming, 2021 - 2024  
+### **CognitionX — Fullstack разработчик / AI Engineer**
+
+Январь 2024 — Февраль 2025
+cognitionx.cloud
+
+AI-платформа для обучения КПТ с модульной генерацией учебных кейсов.
+
+— Разработал ядро системы генерации клинических кейсов (4-агентная архитектура).
+— Реализовал агентов: препроцессинг, генерация кейса, создание повествования, финальная сборка.
+— Построил API на Express для пошаговой генерации и валидации данных.
+— Сделал интерфейсы: генератор кейсов и модуль уроков.
+— Интегрировал Anthropic/OpenAI API.
+— Настроил обмен данными через JSON-структуры и контролировал корректность цепочки агентов.
+
+**Стек:** Node.js, Express, Anthropic SDK, React.
 
 ---
 
----
+### **Фриланс / Pet-проекты**
 
-## Soft Skills
-- **Creativity:** Consistently deliver fresh, impactful ideas for tough challenges.  
-- **Teamwork:** Thrive in diverse teams to achieve exceptional outcomes.  
-- **Multitasking:** Expertly handle multiple high-priority projects with precision.  
+2022 — 2024
 
----
-
-## Interests
-- Vibe coding  
-- Competing in Capture The Flag (CTF) challenges  
+— Система автогенерации статей для Medium: генерация временной почты через Gmailnator API, автоматизированная регистрация, обход фрод-фильтров Medium, публикация через API. Python + Selenium, прокси, смена user-agent.
+— Парсер и преобразователь markdown → корректная HTML-разметка (заголовки, текст, ссылки).
+— Мини-проекты: чат-боты, интеграции AI, быстрые MVP сервисов.
+— Prediction market на Solana: бэкенд, работа с оракулом и внешними данными.
 
 ---
 
-## Languages
-- Russian (C1 level)
-- English (B2 level)  
+## **Образование**
+
+ПГНИУ — Информационные системы и программирование
+2021 — 2024
 
 ---
 
-## Portfolio
-- **GitHub:** [ProximaCA](https://github.com/ProximaCA)  
-**(Suggestion):** Consider adding Tonify here if there's a public link or project description available.
+## **Навыки**
+
+Python, JavaScript, TypeScript
+React, Next.js
+Node.js, Nest.js
+Anthropic/OpenAI API
+MongoDB, PostgreSQL, Redis
+Docker, nginx
+Git, CI/CD
 
 ---
-
-*Keywords: AI, blockchain, fullstack, Python, JavaScript, React, Node.js, automation, innovation, scalability, TON, Architecture.*
-
-**Let’s Connect:** Reach me at 1111111111111111 or [brok3.dev@icloud.com](mailto:brok3.dev@icloud.com) to explore how I can contribute!
