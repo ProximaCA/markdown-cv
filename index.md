@@ -110,7 +110,7 @@ AI platform for CBT training.
 # **Technical Skills**
 
 **Languages:** Python, JavaScript, TypeScript, Solidity, C#
-**Frontend:** React, Next.js, Three.js, Vue.js
+**Frontend:** React, Next.js, Three.js
 **Backend:** Node.js, Nest.js, Express
 **Databases:** MongoDB, PostgreSQL, Redis
 **Blockchain:** Solidity, TON, smart contracts, dApps, oracles
