@@ -28,7 +28,7 @@ Telegram-based music platform on TON with gamification and Music-to-Earn.
 **Key Contributions**
 
 * Built full backend architecture using **NestJS + MongoDB**: modules, services, schemas, caching, data validation.
-* Implemented Telegram Mini App logic: user auth via TG ID, profiles, balances, referral system, and M2E.
+* Implemented Telegram Mini App logic: user auth, profiles, balances, referral system, and M2E.
 * Designed and implemented **Music-to-Earn engine**:
 
   * reward cycles, TREC/sec mechanics
@@ -41,7 +41,6 @@ Telegram-based music platform on TON with gamification and Music-to-Earn.
   * likes, recent history, playlists, subscriptions
 * Built API for listening events, spins, playlists, likes, personalized feeds.
 * Developed core frontend screens (Discover, Profile, Wallet).
-* Integrated TON SDK and connected wallets (off-chain architecture for MVP).
 * Solved complex GCS upload and track-distribution logic.
 
 **Stack:** Next.js, Nest.js, MongoDB, TWA, TON SDK, OnceUI, Google Cloud Storage
@@ -63,7 +62,6 @@ AI platform for CBT training.
   * validation + final assembly agent
 * Designed data pipelines with strict JSON schemas and multi-step validation.
 * Developed backend on **Express.js** and created endpoints for stepwise generation.
-* Integrated **Anthropic & OpenAI** models for adaptive case-building.
 * Implemented UI for case generation and interactive lessons.
 
 **Stack:** Node.js, Express, React, Anthropic SDK, OpenAI API.
@@ -76,14 +74,14 @@ AI platform for CBT training.
 
 ### **Medium Automation System**
 
-* Automated account creation through Gmailnator API (paid API).
+* Automated account creation through Gmailnator API.
 * Implemented Selenium pipelines with rotating proxies, dynamic user-agents, and anti-fraud bypass for Medium.
 * Built AI-powered article generator: SEO-optimized content, markdown formatting, auto-publishing via Medium API.
 * Automated profile completion, drafts, image insertion, and full publishing flow.
 
 ### **Telegram Bots & Automation**
 
-* Built advanced Telegram bots with **aiogram 3/4**.
+* Built advanced Telegram bots with **aiogram**.
 * Created a “Diary+Psychotherapist” bot and several AI-integrated assistants.
 * Built scrapers, parsers, and large automated workflows.
 
@@ -92,11 +90,9 @@ AI platform for CBT training.
 * Designed backend for one of the early on-chain prediction markets.
 * Integrated oracle system for external event verification.
 * Implemented basic smart contracts + off-chain data flow.
-* Project stopped at MVP stage, but core architecture completed.
 
 ### **Misc Engineering**
 
-* Markdown → HTML parser with headings, bold, italics, and clean formatting.
 * Fast MVPs: dApps, bots, automation systems, small web applications.
 * Algorithmic trader/sniper bots.
 * Notcoin clicker automation with high performance.
@@ -108,12 +104,6 @@ AI platform for CBT training.
 ### PGNIU — Information Systems & Programming
 
 2021 – 2024
-
-### Additional Training
-
-* Python, Node.js
-* VR/AR (2019–2021)
-* OSINT & Sysadmin basics
 
 ---
 
@@ -135,8 +125,6 @@ AI platform for CBT training.
 * Strong idea generation
 * Team-friendly communication
 * Ability to ship fast and iterate
-* Handles multiple projects without chaos
-
 ---
 
 # **Interests**
