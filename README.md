@@ -1,87 +1,148 @@
 ---
-name: Brok3
-title: Fullstack Developer
-email: brok3.dev@icloud.com
-github: https://github.com/ProximaCA
-location: Pattaya
----
 
-<img src="b.jpg" alt="Profile Picture" width="300" height="300" style="border-radius:50%; display:block; margin:auto;">
-
-# Brok3 – Fullstack Developer, & AI Builder
+# **Brok3 – Fullstack Developer & AI Builder**
 
 ## Profile
 
-A highly motivated Fullstack Developer and Blockchain Architect with a proven track record in web development, blockchain, 3D/VR/AR, and AI-driven solutions. With deep expertise in Python, JavaScript, and Solidity, I excel at delivering innovative projects—from scalable web applications to cutting-edge AI agents and secure blockchain ecosystems. Recognized as an early adopter of AI and an active developer of AI agents since 2023, I bring a unique blend of technical mastery and creative problem-solving to every project. Currently serving as CTO & Blockchain Architect at Tonify.
+A full-stack engineer with 3+ years of experience building production-ready systems: Telegram Mini Apps, AI-powered platforms, backend architectures, automation pipelines, and blockchain-based applications. Comfortable taking projects from raw idea to a deployed MVP with proper architecture, clean code, security, and maintainability.
+Strong focus on AI agents, scalable backend logic, automation, and blockchain (TON & EVM). I enjoy solving messy problems, shipping fast, designing systems that don’t fall apart under load, and iterating until it feels right.
+
+Currently working as CPO & Fullstack Engineer at **Tonify**, building the core platform logic, architecture, and AI/blockchain integrations.
+
+---
 
 ## Contact Information
 
-- **Age:** 21  
-- **Location:** Pattaya  
-- **Email:** [brok3.dev@icloud.com](mailto:brok3.dev@icloud.com)  
-- **GitHub:** [ProximaCA](https://github.com/ProximaCA)
+* **Location:** Pattaya
+* **Email:** [brok3.dev@icloud.com](mailto:brok3.dev@icloud.com)
+* **GitHub:** [https://github.com/ProximaCA](https://github.com/ProximaCA)
 
-## Professional Experience
+---
 
-### Company Experience
-- **Tonify (CPO, fullstack):** (2025 - Present)  
-  Defining the technical vision and architectural strategy for the Tonify ecosystem on the TON blockchain. Leading the end-to-end development of the platform, including smart contracts, dApp architecture, and fullstack implementation.
-- **CognitionX (Main Developer):** (2024 - Present)  
-  Leading core development on the platform, integrating AI solutions to enhance user experiences. [cognitionx.cloud](https://cognitionx.cloud/)
-- **Alchemy (Developer Contributor / Student):**  
-  Contributed to Alchemy SDK development during advanced Solidity and JavaScript coursework. 
+# **Professional Experience**
 
-### Freelance & Independent Projects
-- **Web Development:**  
-  Developed robust websites and single-page applications using HTML, CSS, and JavaScript frameworks (React, Vue, Next.js, Three.js). Built scalable backend systems with Node.js and Python Flask.
-- **VR/AR Solutions:**  
-  Engineered immersive applications with Blender for 3D modeling and Unity (UI/UX, C#) for interactive experiences.
-- **Blockchain & Smart Contracts:**  
-  Designed and implemented smart contracts using Solidity (ERC721, ERC404, ERC521), developed small DApps, tokens, and NFTs, and performed smart contract audits. **Specialized experience with the TON blockchain.**
-- **Telegram Bots & Automation:**  
-  Created advanced Telegram bots using aiogram (v3.0/4.0) — including a “Diary + Psychotherapist” bot — and built automation tools with Selenium for website testing, registration workflows, and AI-powered content generation.
-- **Automated Trading:**  
-  Developed algorithmic trader and sniper bots to optimize trading strategies.
-- **Notcoin Clicker Automation:**  
-  Built a high-performance click automation tool that generated significant results. *(Rephrased slightly)*
+## **Tonify — CPO & Fullstack Developer**
 
-## Education
+2025 – Present
+Telegram-based music platform on TON with gamification and Music-to-Earn.
 
-- **PGNIU, University (2021 – 2024):**  
-  Major: Information Systems and Programming  
-  Specialization: Programmer  
-- **Additional Training:**  
-  - Courses in Python & Node.js  
-  - VR/AR Courses (2019–2021)  
-  - OSINT and Sysadmin Training
+**Key Contributions**
 
-## Technical Skills
+* Built full backend architecture using **NestJS + MongoDB**: modules, services, schemas, caching, data validation.
+* Implemented Telegram Mini App logic: user auth via TG ID, profiles, balances, referral system, and M2E.
+* Designed and implemented **Music-to-Earn engine**:
 
-- **Programming Languages:** Python, JavaScript, Solidity, C#. 
-- **Frontend:** React, Next.js, Vue.js 
-- **Backend:** Express, Node.js, Nest.js  
-- **Blockchain:** Smart Contracts, dApp Development, **Blockchain Architecture**, **TON Blockchain**, web3, Solidity (ERC721, ERC404, ERC521)
-- **Libraries & Tools:**  
-  - **Python:** web3, aiohttp, requests, pandas, aiogram, etc.  
-  - **JavaScript:** Express, pnpm, pm2, serve, code obfuscation tools  
-  - **Development Tools:** Remix IDE, VS Code, Cursor, Blender, Visual Studio (C#)  
-- **Server Administration:** Expertise in Linux server setup, hosting, and security  
-- **Operating System:** Linux  
-- **AI & Automation:** Early adopter of ChatGPT (first user, April 2021) and active developer of AI agents since 2023. 
+  * reward cycles, TREC/sec mechanics
+  * bonus logic, engagement boosters
+  * small interactive mechanics during listening
+* Implemented complete music catalog:
 
-## Soft Skills
+  * signed URLs via **Google Cloud Storage**
+  * releases, tracks, search, top charts
+  * likes, recent history, playlists, subscriptions
+* Built API for listening events, spins, playlists, likes, personalized feeds.
+* Developed core frontend screens (Discover, Profile, Wallet).
+* Integrated TON SDK and connected wallets (off-chain architecture for MVP).
+* Solved complex GCS upload and track-distribution logic.
 
-- **Creativity:** Frequently recognized as an idea generator  
-- **Teamwork:** Proven ability to collaborate effectively in team environments  
-- **Multitasking:** Skilled at managing multiple projects simultaneously
+**Stack:** Next.js, Nest.js, MongoDB, TWA, TON SDK, OnceUI, Google Cloud Storage
 
+---
 
-## Interests & Additional Information
+## **CognitionX — Fullstack Developer / AI Engineer**
 
-- **Favorite Books:** 📚 “Cryptonomicon”, “1984”, “The Richest Man in Babylon”  
-- **Favorite Films/TV Shows:** 🎬 “Limitless”, “Mr. Robot”, “Neon Genesis Evangelion”  
-- **Languages:** English (B1/B2 level - specify one)
+2024 – 2025
+AI platform for CBT training.
 
-## Portfolio
+**Core Work**
 
-- **GitHub:** [ProximaCA](https://github.com/ProximaCA)
+* Built a **multi-agent clinical case generator**:
+
+  * preprocessing agent
+  * cognitive-case generation agent
+  * narrative agent
+  * validation + final assembly agent
+* Designed data pipelines with strict JSON schemas and multi-step validation.
+* Developed backend on **Express.js** and created endpoints for stepwise generation.
+* Integrated **Anthropic & OpenAI** models for adaptive case-building.
+* Implemented UI for case generation and interactive lessons.
+
+**Stack:** Node.js, Express, React, Anthropic SDK, OpenAI API.
+
+---
+
+## **Freelance & Independent Projects**
+
+2022 – 2024
+
+### **Medium Automation System**
+
+* Automated account creation through Gmailnator API (paid API).
+* Implemented Selenium pipelines with rotating proxies, dynamic user-agents, and anti-fraud bypass for Medium.
+* Built AI-powered article generator: SEO-optimized content, markdown formatting, auto-publishing via Medium API.
+* Automated profile completion, drafts, image insertion, and full publishing flow.
+
+### **Telegram Bots & Automation**
+
+* Built advanced Telegram bots with **aiogram 3/4**.
+* Created a “Diary+Psychotherapist” bot and several AI-integrated assistants.
+* Built scrapers, parsers, and large automated workflows.
+
+### **Prediction Market on Solana**
+
+* Designed backend for one of the early on-chain prediction markets.
+* Integrated oracle system for external event verification.
+* Implemented basic smart contracts + off-chain data flow.
+* Project stopped at MVP stage, but core architecture completed.
+
+### **Misc Engineering**
+
+* Markdown → HTML parser with headings, bold, italics, and clean formatting.
+* Fast MVPs: dApps, bots, automation systems, small web applications.
+* Algorithmic trader/sniper bots.
+* Notcoin clicker automation with high performance.
+
+---
+
+# **Education**
+
+### PGNIU — Information Systems & Programming
+
+2021 – 2024
+
+### Additional Training
+
+* Python, Node.js
+* VR/AR (2019–2021)
+* OSINT & Sysadmin basics
+
+---
+
+# **Technical Skills**
+
+**Languages:** Python, JavaScript, TypeScript, Solidity, C#
+**Frontend:** React, Next.js, Three.js, Vue.js
+**Backend:** Node.js, Nest.js, Express
+**Databases:** MongoDB, PostgreSQL, Redis
+**Blockchain:** Solidity, TON, smart contracts, dApps, oracles
+**Tools:** Docker, nginx, VPS, CI/CD, Cloudflare, pm2, pnpm
+**AI:** Anthropic, OpenAI, multi-agent systems, automation pipelines
+**Other:** Blender, Unity (C#), Linux server administration
+
+---
+
+# **Soft Skills**
+
+* Strong idea generation
+* Team-friendly communication
+* Ability to ship fast and iterate
+* Handles multiple projects without chaos
+
+---
+
+# **Interests**
+
+Books: Cryptonomicon, 1984, The Richest Man in Babylon
+Movies/Shows: Limitless, Mr. Robot, Evangelion
+Languages: English B1–B2
+
