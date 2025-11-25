@@ -1,137 +1,113 @@
+# **Fullstack‑разработчик**
 
-# **Fullstack Developer**
+## О себе
 
-## Profile
-
-A full-stack engineer with 3+ years of experience building production-ready systems: Telegram Mini Apps, AI-powered platforms, backend architectures, automation pipelines, and blockchain-based applications. Comfortable taking projects from raw idea to a deployed MVP with proper architecture, clean code, security, and maintainability.
-Strong focus on AI agents, scalable backend logic, automation, and blockchain (TON & EVM). I enjoy solving messy problems, shipping fast, designing systems that don’t fall apart under load, and iterating until it feels right.
-
-Currently working as CPO & Fullstack Engineer at **Tonify**, building the core platform logic, architecture, and blockchain integrations.
+Fullstack‑инженер с Т‑Shaped профилем и опытом более 3 лет в разработки ПО: от веб‑сайтов, серверных архитектур, автоматизации, AI‑агентов и приложений на базе Web3. Умею вести проекты от первоначальной идеи до MVP с продуманной архитектурой, чистым кодом, обеспечением безопасности и удобства.
+Особое внимание уделяю AI‑агентам, масштабируемой серверной логике, автоматизации. Работаю в режиме ускоренной разработки(vibe coding): от идеи к рабочему прототипу за минимальные сроки, с последующей доработкой до продакшен‑качества.
 
 ---
 
-## Contact Information
+## Контактная информация
 
-* **Location:** Moscow 
-* **Email:** [brok3.dev@icloud.com](mailto:brok3.dev@icloud.com)
+* **Местоположение:** Москва
+* **Email:** [brok3dev@gmail.com](mailto:brok3dev@gmail.com)
 * **GitHub:** [https://github.com/ProximaCA](https://github.com/ProximaCA)
 
 ---
 
-# **Professional Experience**
+# **Опыт работы**
 
-## **Tonify — CPO & Fullstack Developer**
+## **Tonify — CPO и fullstack‑разработчик**
 
-2025 – Present
-Telegram-based music platform on TON with gamification and Music-to-Earn.
+2025 — настоящее время  
+Музыкальная платформа на базе Telegram в сети TON с элементами геймификации и моделью Music‑to‑Earn.
+Разрабатываю основную логику платформы, архитектуру и интеграции с блокчейном.
 
-**Key Contributions**
+**Основные достижения**
 
-* Built full backend architecture using **NestJS + MongoDB**: modules, services, schemas, caching, data validation.
-* Implemented Telegram Mini App logic: user auth, profiles, balances, referral system, and M2E.
-* Designed and implemented **Music-to-Earn engine**:
+* Создал полную серверную архитектуру на **NestJS + MongoDB**: модули, сервисы, схемы, кэширование, валидация данных.
+* Реализовал логику Telegram Mini App: аутентификация пользователей, профили, балансы, реферальная система и Music‑to‑Earn механику.
+* Разработал и внедрил движок **Music‑to‑Earn**:
+    * циклы начисления вознаграждений;
+    * логика бонусов, усилители вовлечённости;
+    * небольшие интерактивные механики во время прослушивания.
+* Реализовал полный музыкальный каталог:
+    * подписанные URL через **Google Cloud Storage**;
+    * релизы, треки, поиск, топ‑чарты;
+    * лайки, история прослушиваний, плейлисты, подписки.
+* Создал API для событий прослушивания, плейлистов, лайков.
+* Разработал основные экраны фронтенда.
+* Решил сложные задачи по загрузке в GCS и распределению треков.
 
-  * reward cycles, TREC/sec mechanics
-  * bonus logic, engagement boosters
-  * small interactive mechanics during listening
-* Implemented complete music catalog:
-
-  * signed URLs via **Google Cloud Storage**
-  * releases, tracks, search, top charts
-  * likes, recent history, playlists, subscriptions
-* Built API for listening events, spins, playlists, likes, personalized feeds.
-* Developed core frontend screens (Discover, Profile, Wallet).
-* Solved complex GCS upload and track-distribution logic.
-
-**Stack:** Next.js, Nest.js, MongoDB, TWA, TON SDK, OnceUI, Google Cloud Storage
-
----
-
-## **CognitionX — Fullstack Developer / AI Engineer**
-
-2024 – 2025
-AI platform for CBT training.
-
-**Core Work**
-
-* Built a **multi-agent clinical case generator**:
-
-  * preprocessing agent
-  * cognitive-case generation agent
-  * narrative agent
-  * validation + final assembly agent
-* Designed data pipelines with strict JSON schemas and multi-step validation.
-* Developed backend on **Express.js** and created endpoints for stepwise generation.
-* Implemented UI for case generation and interactive lessons.
-
-**Stack:** Node.js, Express, React, Anthropic SDK, OpenAI API.
+**Используемые технологии:** Next.js, Nest.js, MongoDB, TWA, TON SDK, OnceUI, Google Cloud Storage, CI/CD
 
 ---
 
-## **Freelance & Independent Projects**
+## **CognitionX — fullstack‑разработчик / AI‑инженер**
 
-### **Medium Automation System**
+2024 — 2 Newton 2025  
+Платформа на базе ИИ для обучения когнитивно‑поведенческой терапии (КПТ).
 
-* Automated account creation through Gmailnator API.
-* Implemented Selenium pipelines with rotating proxies, dynamic user-agents, and anti-fraud bypass for Medium.
-* Built AI-powered article generator: SEO-optimized content, markdown formatting, auto-publishing via Medium API.
-* Automated profile completion, drafts, image insertion, and full publishing flow.
+**Основная работа**
 
-### **Telegram Bots & Automation**
+* Создал **многоагентную систему генерации клинических кейсов**:
+    * агент предварительной обработки;
+    * агент генерации когнитивных кейсов;
+    * агент валидации и финальной сборки.
+* Разработал конвейеры данных со строгими JSON‑схемами и многоэтапной валидацией.
+* Создал серверную часть на **Express.js** и endpoints для поэтапной генерации.
+* Реализовал интерфейс для генерации кейсов и интерактивных уроков.
 
-* Built advanced Telegram bots with **aiogram**.
-* Created a “Diary+Psychotherapist” bot and several AI-integrated assistants.
-* Built scrapers, parsers, and large automated workflows.
-
-### **Prediction Market on Solana**
-
-* Designed backend for one of the early on-chain prediction markets.
-* Integrated oracle system for external event verification.
-* Implemented basic smart contracts + off-chain data flow.
-
-### **Misc Engineering**
-
-* Fast MVPs: dApps, bots, automation systems, small web applications.
-* Algorithmic trader/sniper bots.
-* Notcoin clicker automation with high performance.
+**Используемые технологии:** Node.js, Express, React, Anthropic SDK
 
 ---
 
-# **Education**
+## **Фриланс и независимые проекты**
 
-### PGNIU — Information Systems & Programming
+### **Система автоматизации Medium**
 
-2021 – 2024
+* Автоматизировал создание аккаунтов через API Gmailnator.
+* Реализовал конвейеры на Selenium с ротацией прокси, динамическими user‑agent и обходом антифрод‑систем для Medium.
+* Создал генератор статей на базе ИИ: SEO‑оптимизированный контент, форматирование в Markdown, автоматическая публикация через API Medium.
+* Автоматизировал заполнение профиля, черновики, добавление изображений и полный процесс публикации.
 
----
+### **Боты и автоматизация**
 
-# **Technical Skills**
+* Разработывал продвинутые боты для Telegram на **aiogram3**.
+* Создал бота «Дневник + Психотерапевт» и несколько ассистентов с интеграцией ИИ.
+* Разрабатывал скраперы, парсеры и масштабные автоматизированные рабочие процессы.
 
-**Languages:** Python, JavaScript, TypeScript, Solidity, C#
-**Frontend:** React, Next.js, Three.js
-**Backend:** Node.js, Nest.js, Express
-**Databases:** MongoDB, PostgreSQL, Redis
-**Blockchain:** Solidity, TON, smart contracts, dApps, oracles
-**Tools:** Docker, nginx, VPS, CI/CD, Cloudflare, pm2, pnpm
-**AI:** Anthropic, OpenAI, multi-agent systems, automation pipelines
-**Other:** Blender, Unity (C#), Linux server administration
+### **dapp prediction market на Solana**
 
----
+* Проектировал серверную часть ончейн‑рынков предсказаний.
+* Интегрировал систему оракулов для верификации внешних событий.
+* Реализовал базовые смарт‑контракты и поток данных вне блокчейна.
 
-# **Soft Skills**
+### **Прочие инженерные задачи**
 
-* Strong idea generation
-* Team-friendly communication
-* Ability to ship fast and iterate
-  
----
-
-# **Interests**
-
-Books: Cryptonomicon, 1984, The Richest Man in Babylon
-Movies/Shows: Limitless, Mr. Robot, Evangelion
-Languages: English B1–B2
+* Быстрые MVP: dApps, боты, системы автоматизации, небольшие веб‑приложения.
+* Алгоритмические трейдер‑боты и снайпер‑боты.
+* Автоматизация кликера Notcoin с высокой производительностью через API.
 
 ---
 
+# **Образование**
 
+### ПГНИУ — Информационные системы и программирование
+2021 — 2024
+
+---
+
+# **Стек**
+
+**Языки:** Python, JavaScript, TypeScript, Solidity, C#  
+**Frontend:** React, Next.js, Three.js  
+**Backend:** Node.js, Nest.js, Express  
+**DB:** MongoDB, PostgreSQL, Redis  
+**Blockchain:** Solidity, TON, смарт‑контракты, dApps, оракулы  
+**Инструменты:** Docker, nginx, VPS, CI/CD, Cloudflare, pm2, pnpm  
+**AI:** Anthropic, OpenAI, многоагентные системы, конвейеры автоматизации  
+**Другое:** Blender, Unity (C#), администрирование Linux‑серверов
+
+
+---
